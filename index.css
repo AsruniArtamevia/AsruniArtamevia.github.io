@@ -59,6 +59,8 @@ h2   {
     padding: 10px;
     color: purple;
     float: right;
+    background-color: #FFCCCC;
+
     }
     
 #isi2 {
@@ -86,7 +88,7 @@ h2   {
    border: 1px dashed #000;
    color: orange;   
    float: left;
-   background-color: white;
+   background-color: #FFFFCC;
    }
    
 .gambar {
